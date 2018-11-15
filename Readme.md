@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Contact.cs](./CS/Contact.cs) (VB: [Contact.vb](./VB/Contact.vb))
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+<!-- default file list end -->
 # How to display a linked object (one-to-one relation) as a detail card view in the XtraGrid
 
 
